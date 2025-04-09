@@ -1,17 +1,11 @@
-# SVG Editor
+# 🛒 Shop Management App (C# Windows Forms)
 
-A lightweight web-based SVG editor for creating and customizing basic vector shapes like rectangles, ellipses, and lines. Built with pure HTML, CSS, and JavaScript.
+This project is a C# Windows Forms application designed to manage a simple shop system. It allows users to add and view **products**, **clients**, and **transactions**, with support for **serialization** and **deserialization** of data.
 
-## Features
+## ✨ Features
 
-- 🟥 **Draw Shapes**: Rectangle, Ellipse, and Line tools
-- 🎨 **Customize**:
-  - Stroke color
-  - Stroke width
-  - Fill color (background)
-- 🖱️ **Interactive Drawing**: Draw by clicking and dragging on the canvas
-- 🧹 **Clear Canvas**: Easily reset your drawing
-- 🖱️ **Right-Click Editing**: Select a shape with right-click to:
-  - Change its stroke color
-  - Adjust stroke width
-  - Modify the fill color
+- 📦 Add, view, and manage **Products**
+- 🧍 Add, view, and manage **Clients**
+- 💸 Record and display **Transactions**
+- 💾 Save and load data using **Serialization/Deserialization**
+- 📊 Visualize data in a user-friendly interface
